@@ -32,4 +32,12 @@ build/
 ### VS Code ###
 .vscode/
 
+# Env and secrets
+.env
+*.jks
+*.pem
+application.properties
+application.yml
+application-dev.yml
+
 
